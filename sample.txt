@@ -1,2 +1,5 @@
 Hi Hello
+<<<<<<< HEAD
 yes
+=======
+>>>>>>> fd9ec2f... Initial Commit
